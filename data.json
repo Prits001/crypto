@@ -2,7 +2,7 @@
     "name": "Prits Token",
     "symbol": "PRTS",
     "description": "Tokens manufactured by Prits! :D",
-    "image": "https://github.com/Prits001/crypto/blob/a413eda38a87903f1735b80bfcbade572cf778f4/icon.png",
+    "image": "https://raw.githubusercontent.com/Prits001/crypto/main/icon.png",
     "attributes": [
       {
         "trait_type": "Token Type",
