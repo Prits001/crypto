@@ -2,11 +2,5 @@
     "name": "Prits Token",
     "symbol": "PRTS",
     "description": "Tokens manufactured by Prits! :D",
-    "image": "https://raw.githubusercontent.com/Prits001/crypto/main/icon.png",
-    "attributes": [
-      {
-        "trait_type": "Token Type",
-        "value": "Social"
-      }
-    ]
+    "image": "https://raw.githubusercontent.com/Prits001/crypto/main/icon.png"
   }
